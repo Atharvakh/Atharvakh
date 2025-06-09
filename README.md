@@ -8,38 +8,30 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+located_in: Pune, Maharashtra, India
+currently pursuing: M.Sc. Scientific Computing
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught SOC Analyst",
+    "EC-Council CEH"
+    "B.Sc Computer Science",
   ]
-company: Soulber
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Cryptography",
+    "Operating Systems",
+    "AI in Cybersecurity",
+    "Networking and System Administration",
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Cyber Security Analyst (VAPT)",
+    "Intern - Cyber Intern (Digital Forensics)",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, Kubernetes, and SIEM Engineering"]
+hobbies: ["Cinema", "Music", "Reading", "Trekking","Running Half Marathons"]
 ```
 <!--
 **Atharvakh/Atharvakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
