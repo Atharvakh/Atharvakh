@@ -33,6 +33,11 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and SIEM Engineering"]
 hobbies: ["Cinema", "Music", "Reading", "Trekking","Running Half Marathons"]
 ```
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+</div>
 <!--
 **Atharvakh/Atharvakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
