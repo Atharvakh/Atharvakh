@@ -30,7 +30,7 @@ technical_background:
     "Intern - Cyber Intern (Digital Forensics)",
   ]
   
-currently_learning: ["Docker, Kubernetes, and SIEM Engineering"]
+currently_learning: ["SIEM Engineering"]
 hobbies: ["Cinema", "Music", "Reading", "Trekking","Running Half Marathons"]
 ```
 <div align="center">
