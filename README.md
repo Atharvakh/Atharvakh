@@ -31,7 +31,7 @@ technical_background:
   ]
   
 currently_learning: ["SIEM Engineering"]
-hobbies: ["Music", "Reading", "Trekking","Running Half Marathons"]
+hobbies: ["Reading", "Trekking","Running Half Marathons"]
 ```
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
