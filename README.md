@@ -22,7 +22,7 @@ fields_of_interests:
     "Cryptography",
     "Operating Systems",
     "AI in Cybersecurity",
-    "Networking and System Administration",
+    "Networking",
   ]
 technical_background:
   [
