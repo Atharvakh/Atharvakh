@@ -30,7 +30,7 @@ technical_background:
     "Intern - Cyber Intern (Digital Forensics)",
   ]
   
-currently_revising: ["Networking Fudamentals"]
+currently_revising: ["Networking Fudamentals","Malware Analysis"]
 hobbies: ["Reading", "Trekking", "Running Half Marathons"]
 ```
 <div align="center">
